@@ -19,3 +19,4 @@
 2. 信息版自定义需要改          YBHelperInfoView
 
 1.0版本 有时间再更新...
+欢迎Pull Request 修改这么丑的UI
