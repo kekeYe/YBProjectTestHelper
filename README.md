@@ -20,3 +20,6 @@
 
 1.0版本 有时间再更新...
 欢迎Pull Request 修改这么丑的UI
+
+
+![image](https://github.com/kekeYe/YBProjectTestHelper/blob/master/YBTestHelperDemo/YBTestGif.gif) 
